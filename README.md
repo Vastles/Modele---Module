@@ -52,4 +52,4 @@ Ce projet est sous licence MIT. Vous êtes libre de l'utiliser, de le modifier e
 
 Auteurs
 Votre Nom
-Contact : votre_email@example.com
+Contact : victor.deschateaux11@gmail.com
